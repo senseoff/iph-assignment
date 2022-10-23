@@ -1,0 +1,22 @@
+.time-input-label {
+    margin-bottom: 5px;
+}
+
+.note-input {
+    margin: 10px 0;
+}
+
+.notes-controls .button,
+.notes-controls button{
+    margin-right: 5px;
+}
+
+.notes-wrapper {
+    list-style: none;
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+.notes-wrapper li p {
+    margin-top: 3px;
+}
